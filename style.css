@@ -42,3 +42,7 @@ a {
     padding: 0;
 }
 
+.recipe-image {
+    width: 400px;
+    height: auto;
+}
